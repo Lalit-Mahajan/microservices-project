@@ -118,4 +118,4 @@ This project demonstrates how to set up a microservices architecture using AWS, 
 ---
 
 ### OUTPUT:🎯
-![Alt text](Online.jpeg)
+![Online Boutique](./Online.jpeg)
