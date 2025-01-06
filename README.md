@@ -1,4 +1,4 @@
-# End-to-End E-Commerce Microservices Built with AWS EKS, Jenkins, Docker, and Kubernetes
+# End-to-End E-Commerce Microservices Built with AWS EKS, Jenkins, Docker, and Kubernetes 🛒🚀
 
 ## **Project Overview**  
 This project demonstrates how to set up a scalable **microservices architecture** using **AWS**, **Kubernetes (EKS)**, and **Jenkins**. It covers deploying a cluster on AWS EKS, Jenkins integration for CI/CD, and Docker for containerization. 🌟  
